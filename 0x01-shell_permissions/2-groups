@@ -1,2 +1,4 @@
 #!/bin/bash
 groups
+touch 3-new_owner
+chmod u+x,g+w 3-new_owner
